@@ -1,0 +1,11 @@
+C:\Users\jivko\source\repos\MyEditor\MyEditor\bin\Debug\MyEditor.exe.config
+C:\Users\jivko\source\repos\MyEditor\MyEditor\bin\Debug\MyEditor.exe
+C:\Users\jivko\source\repos\MyEditor\MyEditor\bin\Debug\MyEditor.pdb
+C:\Users\jivko\source\repos\MyEditor\MyEditor\obj\Debug\MyEditor.csprojAssemblyReference.cache
+C:\Users\jivko\source\repos\MyEditor\MyEditor\obj\Debug\MyEditor.UserInfoForm.resources
+C:\Users\jivko\source\repos\MyEditor\MyEditor\obj\Debug\MyEditor.Properties.Resources.resources
+C:\Users\jivko\source\repos\MyEditor\MyEditor\obj\Debug\MyEditor.csproj.GenerateResource.cache
+C:\Users\jivko\source\repos\MyEditor\MyEditor\obj\Debug\MyEditor.csproj.CoreCompileInputs.cache
+C:\Users\jivko\source\repos\MyEditor\MyEditor\obj\Debug\MyEditor.exe
+C:\Users\jivko\source\repos\MyEditor\MyEditor\obj\Debug\MyEditor.pdb
+C:\Users\jivko\source\repos\MyEditor\MyEditor\obj\Debug\MyEditor.Editor.resources
